@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SpotFinder!</string>
+    <string name="app_name">TelikoProject</string>
+    <string name="Spot">Spot</string>
+    <string name="User">User</string>
+    <string name="Show">Where to go?</string>
+    <string name="Null"/>
+    <string name="Azimuth">Insert Azimuth</string>
+    <string name="Scan">Barcode Scan</string>
+
+</resources>
